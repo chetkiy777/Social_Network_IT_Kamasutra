@@ -1,0 +1,18 @@
+.descriptionBlock {
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.descriptionBlock img {
+    width: 230px;
+    height: 260px;
+}
+
+.contacts {
+    padding-left: 20px;
+}
+
+.infoAbout {
+    padding: 10px;
+}

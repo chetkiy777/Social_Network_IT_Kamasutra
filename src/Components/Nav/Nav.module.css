@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    background-color: lightcoral;
+    padding: 20px;
+}
+
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+
+.friendsBlock {
+    margin-top: 40px;
+}

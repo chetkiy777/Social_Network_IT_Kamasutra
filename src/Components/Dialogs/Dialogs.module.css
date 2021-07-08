@@ -1,0 +1,37 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 4fr 10fr;
+
+}
+
+.dialogItem {
+    padding: 10px;
+
+
+}
+.dialogItem img {
+    height: 40px;
+    width: 40px;
+}
+
+.dialog {
+    font-family: "Berlin Sans FB" ;
+}
+
+.dialog a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.dialog a.activeDialog {
+    color: gold;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.dialog img {
+    padding: 10px;
+}
