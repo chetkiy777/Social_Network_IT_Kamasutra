@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19f459bf-7f67-4508-aa9f-7fcf75638f4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Users/UserSearchForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Login/Login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Starwars/StarWars.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Users/User.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Users/User.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Users/Users.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Users/UsersContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/preloader/126.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/preloaders/126.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/preloader/preloaderCube/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/preloaders/preloaderCube/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/preloader/preloaderCube/css/preloaderStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/preloaders/preloaderCube/css/preloaderStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/preloader/preloaderCube/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/preloaders/preloaderCube/license.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/preloader/preloaderCube/preloaderCube.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/preloaders/preloaderCube/preloaderCube.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/FormsControl/FormsControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/FormsControl/FormsControl.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/Pagenator/Pagenator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Pagenator/Pagenator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/preloader/Preloader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/preloader/Preloader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/app-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/app-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/auth-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/auth-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/dialogs-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/dialogs-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/friends-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/friends-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/redux-store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/sidebar-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sidebar-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/starwarsReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/users-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/users-selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-selectors.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="19f459bf-7f67-4508-aa9f-7fcf75638f4e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,8 +422,16 @@
       <workItem from="1624352846615" duration="97000" />
       <workItem from="1625576263471" duration="1081000" />
       <workItem from="1625663482188" duration="1819000" />
-      <workItem from="1625728341371" duration="279000" />
+      <workItem from="1625728341371" duration="609000" />
     </task>
+    <task id="LOCAL-00001" summary="typescript added">
+      <created>1625728680037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625728680037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,6 +449,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="typescript added" />
+    <option name="LAST_COMMIT_MESSAGE" value="typescript added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
