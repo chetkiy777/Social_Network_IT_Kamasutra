@@ -10,20 +10,24 @@ const Nav = (props) => {
                 <NavLink to="/profile" activeClassName={classes.activeLink}>Profile</NavLink>
             </div>
             <div className={classes.item}>
-                <NavLink to="/Dialogs" activeClassName={classes.activeLink}>Message</NavLink>
+                <NavLink to="/dialogs" activeClassName={classes.activeLink}>Message</NavLink>
             </div>
             <div className={classes.item}>
-                <NavLink to="/News" activeClassName={classes.activeLink}>News</NavLink>
+                <NavLink to="/news" activeClassName={classes.activeLink}>News</NavLink>
             </div>
             <div className={classes.item}>
-                <NavLink to="/Music" activeClassName={classes.activeLink}>Music</NavLink>
+                <NavLink to="/music" activeClassName={classes.activeLink}>Music</NavLink>
             </div>
             <div className={classes.item}>
-                <NavLink to="/Settings" activeClassName={classes.activeLink}>Settings</NavLink>
+                <NavLink to="/settings" activeClassName={classes.activeLink}>Settings</NavLink>
             </div>
             <div className={classes.item}>
-                <NavLink to="/Users" activeClassName={classes.activeLink}>Users</NavLink>
+                <NavLink to="/users" activeClassName={classes.activeLink}>Users</NavLink>
             </div>
+            <div className={classes.item}>
+                <NavLink to="/chat" activeClassName={classes.activeLink}>Chat</NavLink>
+            </div>
+
 
             <div className={classes.friendsBlock}>
                 <Friends/>
